@@ -1,3 +1,5 @@
+INITIALIZATION
+
 Apologies for the confusion. Let's go through the step-by-step instructions to set up a TypeScript project with ts-node-dev and configure the source and destination folders as you specified:Create a new directory for your project and navigate into it using the terminal
 
 ```bash
