@@ -31,7 +31,7 @@ cd my-project
     mkdir src
     mkdir dest
     
-    ```
+    ````
     
 4. Create an **`index.ts`** file in the **`src`** folder:
     
